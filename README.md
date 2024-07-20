@@ -30,6 +30,7 @@ I am an AI/ML Engineer with a passion for developing innovative solutions in the
 
 ### Project 1: Flight Price Prediction
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaybhalala01&repo=flight_price_prediction&theme=radical)](https://github.com/jaybhalala01/flight_price_prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaybhalala01&repo=p-hack-2024&theme=radical)](https://github.com/jaybhalala01/p-hack-2024)
 
 ## 📫 Connect with me
 
